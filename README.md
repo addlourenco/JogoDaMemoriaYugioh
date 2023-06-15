@@ -9,7 +9,6 @@
 <a href="https://addlourenco.github.io/JogoDaMemoriaYugioh/" target="_blank">Clique aqui para jogar.</a>
 
 ## Requisitos
-- IDE.
 - Navegador.
 
 ## Licença
